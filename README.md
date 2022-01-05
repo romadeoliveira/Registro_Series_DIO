@@ -8,8 +8,8 @@ Segue neste repositório o desenvolvimento de uma pratica simples de orientaçã
 
 ## Funções utilizadas
 
-i.    Listar séries;
-ii.   Inserir série;
-iii.  Atualizar série;
-iv.   Excluir série;
-v.    Visualizar série;
+i.    Listar séries;    <br/>
+ii.   Inserir série;    <br/>
+iii.  Atualizar série;  <br/>
+iv.   Excluir série;    <br/>
+v.    Visualizar série; <br/>
